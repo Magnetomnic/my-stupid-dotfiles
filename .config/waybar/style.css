@@ -56,13 +56,7 @@ button:hover {
 }
 
 
-#workspaces button.new{
-    /* expand to normal size */
-padding: 4px 8px;     /* restore padding */
-margin: 0 2px;
-transition: all 0.3s ease-in-out;
 
-}
 
 
 #workspaces button {
