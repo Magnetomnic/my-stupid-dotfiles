@@ -49,7 +49,7 @@
      "hyprland/workspaces":{
 
     "persistent-workspaces": {
-      "*": 10
+      "*": 5
       },
           "all-visible": true,
 },
