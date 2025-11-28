@@ -1,13 +1,15 @@
-<img width="1920" height="1080" alt="2025-10-09-112356_hyprshot" src="https://github.com/user-attachments/assets/4e4b2c8b-f9dc-48be-a1ee-85637462afd0" />
+<img width="1920" height="1080" alt="2025-11-28-104509_hyprshot" src="https://github.com/user-attachments/assets/bb16f3f0-cc9b-4419-b898-abecd3b9b72f" />
+
+
 These are my dotfiles for hyprland and they are very nooby.
 I made this repo mostly as a backup for my dotfiles if I ever reinstall
 
 
 
 I suck at coding and so these are barely edited defaults.  
-To install just rename the old ones to something else and download and put the folders in your ~/.config folder, or just use the install script but make sure you have yay. Note that the script was made for arch linux and other derivative distros.
+To install just rename the old ones to something else and download and put the folders in your ~/.config folder. 
 
-You will need to install hyprland, waybar, kitty and nwg-drawer.
+You will need to install hyprland, hyprpanel, kitty and nwg-drawer.
 
-I no longer use nwg-dock-hyprland so it is optional, but I will leave the style.css here if you want it.
-<img width="1920" height="1080" alt="2025-10-09-112405_hyprshot" src="https://github.com/user-attachments/assets/eead92ea-f0c3-4618-af87-b0c4df862c83" />
+nwg-dock-hyprland and waybar are depreaceated, but I will leave the configs here if you want them.
+<img width="1920" height="1080" alt="2025-11-28-104524_hyprshot" src="https://github.com/user-attachments/assets/bded0789-6274-405d-b307-0e7bc1f7a4fd" />
