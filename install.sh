@@ -4,12 +4,15 @@ git clone https://github.com/Magnetomnic/my-stupid-dotfiles.git
 mv ~/.config/hypr ~/.config/old
 mv ~/.config/kitty ~/.config/old2
 mv ~/.config/alacritty ~/.config/old3
-mv ~/my-stupid-dotfiles/hypr ~/.config/hypr
-mv ~/my-stupid-dotfiles/hyprpanel ~/.config/hyprpanel
-mv ~/my-stupid-dotfiles/nwg-drawer ~/.config/nwg-drawer
-mv ~/my-stupid-dotfiles/kitty ~/.config/kitty
-mv ~/my-stupid-dotfiles/alacritty ~/.config/alacritty
+mv ~/my-stupid-dotfiles/.config/hypr ~/.config/hypr
+mv ~/my-stupid-dotfiles/.config/hyprpanel ~/.config/hyprpanel
+mv ~/my-stupid-dotfiles/.config/nwg-drawer ~/.config/nwg-drawer
+mv ~/my-stupid-dotfiles/.config/kitty ~/.config/kitty
+mv ~/my-stupid-dotfiles/.config/alacritty ~/.config/alacritty
 yay -S ags-hyprpanel-git apple_cursor 
 git clone https://bitbucket.org/dirn-typo/yet-another-monochrome-icon-set.git
-mv yet-another-monochrome-icon-set /usr/share/icons/yet-another-monochrome-icon-set
+sudo mv yet-another-monochrome-icon-set /usr/share/icons/yet-another-monochrome-icon-set
+git clone https://github.com/vinceliuice/Orchis-theme.git
+cd Orchis-theme
+bash ./install.sh
 
